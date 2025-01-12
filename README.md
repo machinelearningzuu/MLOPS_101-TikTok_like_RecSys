@@ -2,6 +2,10 @@
 
 Welcome to the **Hands-on H&M Real-Time Personalized Recommender** open-source course! 🎉 This free course teaches you how to build and deploy a real-time personalized recommender for H&M fashion articles using cutting-edge recommender systems technology, including the **4-stage recommender architecture**, the **two-tower model design**, and the **Hopsworks AI Lakehouse**.
 
+## Architecture
+
+![Architecture](https://github.com/machinelearningzuu/MLOPS_101-TikTok_like_RecSys/raw/main/Architecture.jpeg)
+
 ---
 
 ## Course Lessons
