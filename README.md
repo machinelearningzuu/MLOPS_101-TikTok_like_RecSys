@@ -104,17 +104,6 @@ Follow the instructions in the [repository documentation](#) to:
 
 ---
 
-## Next Steps
-
-In **Lesson 2**, we’ll dive deeper into:
-- Feature pipelines and how to engineer robust features for the recommender.
-- Leveraging Hopsworks to manage and deploy features.
-
-💻 Explore all lessons and code in the [GitHub repository](#).  
-📫 Have questions? Feel free to ask in the discussion section!
-
----
-
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
